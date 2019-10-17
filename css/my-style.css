@@ -1,0 +1,7 @@
+.nav-item .active{
+    
+    border-color: #007bff !important;
+    background: #007bff !important;
+    color: white !important;
+    font-weight: bold;
+}
